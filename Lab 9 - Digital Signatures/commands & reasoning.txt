@@ -1,0 +1,6 @@
+Help received from:
+https://stackoverflow.com/questions/14163889/ 
+and from: 
+https://www.techquintal.com/java-keytool-keystore-commands/
+
+Specifically, the "-sigalg" command. Wanted MD5 to be used with rsa, so in the full command, I used "-keyalg RSA" to use the RSA algorithm instead of DSA (which is default), and I used "-sigalg MD5withRSA" to use md5 as the signature algorithm instead of SHA256 (as asked).
