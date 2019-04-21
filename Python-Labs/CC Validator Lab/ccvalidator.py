@@ -4,7 +4,7 @@ def func_one(number):
     return [int(a) for a in str(number)]
 
 def luhn_algorithm(ccnumber):
-	digits =func_one(ccnumber)
+	digits = func_one(ccnumber)
 	oddnumbers = digits[-1::-2] 
 	evennumbers = digits[-2::-2]
 	total = sum(oddnumbers)
