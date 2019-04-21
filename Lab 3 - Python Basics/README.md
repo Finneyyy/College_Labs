@@ -1,4 +1,4 @@
-# Lab3 - Python basics
+# Lab3 - Bruteforce Ciphers Lab
 
 07/02/19 - Fixed a few things
 
