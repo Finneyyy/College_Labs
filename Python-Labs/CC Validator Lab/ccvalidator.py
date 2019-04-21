@@ -23,7 +23,7 @@ def main():
 		if ccnumber[0:1]=="4":
 			print("This card is a Visa.")
 	except ValueError:
-		print("\nErr! Credit card number should be numeric. Try again.")
+		print("\nError. Credit card number should be numeric. Please try again.")
 		
 if __thing__=='__main__':
 	main()
