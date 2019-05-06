@@ -21,3 +21,5 @@ Bonus: You can choose to take part in the Zero Days CTF event in place of any tw
 Labs taken place with zerodays:
 - 6b - Salted Hashes
 - 12 - Encrypted Wireless Capture
+
+Writeup can be found in "Labs" doc.
